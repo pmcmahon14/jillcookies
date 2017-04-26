@@ -1,0 +1,52 @@
+#logo {
+    height: 15vh;
+}
+#address, .heading {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+}
+.text {
+    text-transform: uppercase;
+    font-family: "Comic Sans MS";
+}
+#pbjelly {
+    color: #c59b75;
+}
+#blueberry {
+    color: #4941cc;
+}
+#cranberry {
+    color: #b43864;
+}
+#pizza {
+    color: #ff6347;
+}
+#cheddar {
+    color: #ff8500;
+}
+#beef {
+    color: #fd3333;
+}
+#chicken {
+    color: #ffa07a;
+}
+#pumpkin {
+    color: #ffa500;
+}
+#gingersnap {
+    color: #773100;
+}
+#apple {
+    color: #61c453;
+}
+#carob {
+    color: #c59b75;
+}
+#coconut {
+    color: #965a3e;
+}
+#mongrel {
+    color: #000000;
+}
