@@ -1,11 +1,22 @@
 #logo {
+    padding: 0 50px;
+    display: block;
     height: 15vh;
+    max-width: 100%;
 }
 #address, .heading {
+    padding-top: 150px;
     text-align: center;
+}
+#list, #variety {
+    margin-top: -130px;
 }
 ul {
     list-style-type: none;
+}
+#flavors {
+    text-align: center;
+    padding-left: 0px;
 }
 .text {
     text-transform: uppercase;
